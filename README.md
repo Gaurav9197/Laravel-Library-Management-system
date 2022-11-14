@@ -22,13 +22,12 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## Getting Started Step by Step
-1. In your root folder, clone the project file using git clone https://github.com/Gaurav9197
-/Laravel-Library-Management-system
+1. In your root folder, clone the project file using git clone https://github.com/Gaurav9197/Laravel-Library-Management-system
 
 2. Open terminal (bash/cmd). Then go to project folder using command
 
 ```sh
-cd Laravel-Advance-Ecommerce
+cd Laravel-Library-Management-system
 ```
 
 3. Then create a .env file and generate key for this project using command 
